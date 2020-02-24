@@ -1,12 +1,12 @@
 {
   "global": {
-    "yes": "Oui",
-    "no": "Non",
-    "accept": "Accepter",
-    "refuse": "Refuser"
+    "yes": "예",
+    "no": "아니",
+    "accept": "동의",
+    "refuse": "쓰레기"
   },
   "modal": {
-    "open": "Ouvrir",
-    "close": "Fermer"
+    "open": "열린",
+    "close": "가까운"
   }
 }
