@@ -1,0 +1,12 @@
+{
+  "global": {
+    "yes": "Oui",
+    "no": "Non",
+    "accept": "Accepter",
+    "refuse": "Refuser"
+  },
+  "modal": {
+    "open": "Ouvrir",
+    "close": "Fermer"
+  }
+}
