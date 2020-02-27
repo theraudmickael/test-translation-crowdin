@@ -3,3 +3,5 @@ files:
     translation: /languages/%two_letters_code%/%original_file_name%
   - source: /test-new/test/fr/trad.json
     translation: /test-new/test/%two_letters_code%/trad.json
+  - source: /new-lang/fr/translations.yml
+    translation: /new-lang/%two_letters_code%/translations.yml
